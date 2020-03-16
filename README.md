@@ -9,10 +9,10 @@ MacOS `/Users/{YourUserName}/.Prismatik/Plugins`
 3. Optional: Change the python path in BreathingLight.ini
 Set the the path as same as the path to python and the last with `plugin.py`
 E.g. `Execute={Path_to_your_python} plugin.py`
-4. In Prismatik setting 
-    A.  -> Profiles -> Expert mode -> tick the checkbox
-    B.  -> Experimental -> Enable server, port 3636
-    C.  -> Plugins -> In `All plugins` you should find `Breathing Light`, if no, click the reload button or restart Prismatik -> Enable `Breathing Light`
+4. In Prismatik setting  
+    A.  -> Profiles -> Expert mode -> tick the checkbox  
+    B.  -> Experimental -> Enable server, port 3636  
+    C.  -> Plugins -> In `All plugins` you should find `Breathing Light`, if no, click the reload button or restart Prismatik -> Enable `Breathing Light`  
 5. Done! It should be work if yours led can work in default setting.
 
 # Schedule
